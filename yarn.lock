@@ -7766,13 +7766,13 @@ ember-test-waiters@^1.0.0, ember-test-waiters@^1.1.1:
     ember-cli-babel "^7.11.0"
     semver "^6.3.0"
 
-ember-tether@~1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/ember-tether/-/ember-tether-1.0.0.tgz#6117ea7351927887cb74fa5d46097dd300280c2d"
-  integrity sha1-YRfqc1GSeIfLdPpdRgl90wAoDC0=
+ember-tether@~2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/ember-tether/-/ember-tether-2.0.0.tgz#4fcb88749e8c11d3795173e96e894089328005b4"
+  integrity sha512-07QCzYE5VZsQ53SQQBDbP47E1s2qs6A9p1q6kOQjca693TVKxz0ZKTAKCXoSXOujG1n92hc1hRdA9rOSoxcBJw==
   dependencies:
-    ember-cli-babel "^6.6.0"
-    ember-cli-node-assets "^0.2.2"
+    ember-auto-import "^1.2.19"
+    ember-cli-babel "^7.1.2"
     tether "^1.4.0"
 
 ember-text-measurer@^0.4.0:
